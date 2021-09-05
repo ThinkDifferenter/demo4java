@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd52509e-1e3f-40e3-89ac-9a5c08c39314" name="Default Changelist" comment="" />
+    <list default="true" id="cd52509e-1e3f-40e3-89ac-9a5c08c39314" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Boostrap/MyBlog" beforeDir="false" afterPath="$PROJECT_DIR$/../Boostrap/MyBlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boostrap/Springboot_v2" beforeDir="false" afterPath="$PROJECT_DIR$/../Boostrap/Springboot_v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Boostrap/springBoot_Jpa" beforeDir="false" afterPath="$PROJECT_DIR$/../Boostrap/springBoot_Jpa" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bms" beforeDir="false" afterPath="$PROJECT_DIR$/../bms" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -124,6 +130,15 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="998262036">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -139,8 +154,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/jvm/JvmTestTwo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+            <state relative-caret-position="368">
+              <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -184,7 +199,7 @@
     </dirStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -320,6 +335,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -358,7 +374,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -397,7 +412,7 @@
   <component name="RunManager" selected="Application.JvmTestTwo">
     <configuration name="JvmTestTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="jvm.JvmTestTwo" />
-      <module name="Test" />
+      <module name="demo" />
       <option name="VM_PARAMETERS" value="-Xms20m -Xms20m" />
       <extension name="coverage">
         <pattern>
@@ -425,7 +440,7 @@
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="reflect.Main" />
-      <module name="Test" />
+      <module name="demo" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="reflect.*" />
@@ -438,7 +453,7 @@
     </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="flatmap.Test" />
-      <module name="Test" />
+      <module name="demo" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="flatmap.*" />
@@ -450,7 +465,7 @@
       </method>
     </configuration>
     <configuration name="JvmStackTest.whenMap_thenOk" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Test" />
+      <module name="demo" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="optional.*" />
@@ -566,6 +581,7 @@
       <workItem from="1630664467455" duration="4411000" />
       <workItem from="1630804945247" duration="3280000" />
       <workItem from="1630811679884" duration="702000" />
+      <workItem from="1630814374282" duration="34000" />
     </task>
     <servers />
   </component>
@@ -602,7 +618,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="335604000" />
+    <option name="totallyTimeSpent" value="335638000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -617,7 +633,7 @@
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21983914" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22252011" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -979,8 +995,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/jvm/JvmTestTwo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        <state relative-caret-position="368">
+          <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
         </state>
       </provider>
     </entry>
