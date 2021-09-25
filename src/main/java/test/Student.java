@@ -14,12 +14,15 @@ public class Student {
     public String getName() {
         return name;
     }
+
     public void setName(String name) {
         this.name = name;
     }
+
     public int getAge() {
         return age;
     }
+
     public void setAge(int age) {
         this.age = age;
     }
@@ -29,16 +32,24 @@ public class Student {
         this.age = age;
     }
 
-    private Student() { }
+    private Student() {
+    }
 
     @Override
     public String toString() {
         return "Student [name=" + name + ", age=" + age + "]";
     }
 
-    public static void main(String[] args){
+    public static void main(String[] args) {
         Student s = new Student();
         System.out.println(s.toString());
+        String str = "hello";
+        System.out.println(str.length());
+        String string = new String();
+        System.out.println("Empty String: " + string);
+        String s1 = "hello";
+
+        System.out.println(str == s1);
     }
-    
+
 }

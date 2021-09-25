@@ -13,7 +13,7 @@ public class JvmTestOne {
 
         try {
             Thread.sleep(1000000);
-        } catch (Exception e) {
+        } catch (InterruptedException e) {
             e.printStackTrace();
         }
 
