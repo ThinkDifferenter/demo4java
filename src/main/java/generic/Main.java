@@ -1,5 +1,7 @@
 package generic;
 
+import java.util.Arrays;
+
 /**
  * 描述: Main
  *
@@ -8,13 +10,14 @@ package generic;
  */
 public class Main {
 
-    public static <T> T getMiddle(T ... a){
-        return a[a.length/2];
+    public static <T> T getMiddle(T... a) {
+        return a[a.length / 2];
     }
 
-    public static void main(String[] args){
-        String[] a ={"a","b","c"};
+    public static void main(String[] args) {
+        String[] a = {"a", "b", "c"};
+        Arrays.sort(a);
 
-        Main.getMiddle(a);
+        System.out.println(Main.getMiddle(a));
     }
 }

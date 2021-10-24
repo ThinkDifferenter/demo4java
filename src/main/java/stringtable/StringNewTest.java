@@ -37,7 +37,7 @@ public class StringNewTest {
 
     /**
      * 比较两种String创建方式共创建了多少个对象
-     * Java6 & Java7及以后，向字符串常量池中添加字符串的方式不同！
+     * Attention：Java6 & Java7及以后，向字符串常量池中添加字符串的方式不同！
      */
     @Test
     public void testTwo() {
@@ -80,6 +80,15 @@ public class StringNewTest {
         for (int i=0;i<MAX_SIZE;i++){
             String.valueOf(i).intern();
         }
+    }
+
+    @Test
+    public void testSix(){
+        String str = new String("java");
+        String str2 = str.intern();
+        String str3 = "java";
+
+        System.out.println(str2 == str3);
     }
 
 }

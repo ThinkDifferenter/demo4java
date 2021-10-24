@@ -6,12 +6,12 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Description : StringTest
+ * Description : StringTest1
  *
  * @author :   JunJiang
  * @date : 2021-09-14 09:49
  */
-public class StringTest {
+public class StringTest1 {
 
     public static void main(String[] args) {
         // 保持引用，防止GC回收内存

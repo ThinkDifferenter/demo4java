@@ -3,12 +3,12 @@ package reentrantlock;
 import java.util.concurrent.locks.ReentrantReadWriteLock;
 
 /**
- * 描述: ReentrantLock 互斥排他锁测试
+ * 描述: ReentrantLock2 互斥排他锁测试
  *
  * @author junjiang
  * @date 2020-03-26 10:24
  */
-public class ReentrantLock {
+public class ReentrantLock2 {
 
     public static void main(String[] args){
 

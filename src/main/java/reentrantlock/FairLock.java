@@ -5,7 +5,7 @@ import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 
 /**
- * 描述: 公平所
+ * 描述: 公平锁
  *
  * @author junjiang
  * @date 2020-03-25 14:15

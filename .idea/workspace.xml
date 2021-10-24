@@ -2,12 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd52509e-1e3f-40e3-89ac-9a5c08c39314" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/druid_1_0_29.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/druid_1_0_29.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jvm/JvmTestOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jvm/JvmTestOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arrayadress/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arrayadress/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/basetest/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/enumtest/Behaviour.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/enumtest/Color.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/enumtest/ColorEnum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/flatmap/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/generic/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/generic/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/generic/Pair.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jvm/HeapInstanceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jvm/HeapTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jvm/JvmTestOne.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jvm/JvmTestTwo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jvm/SimpleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jvm/StaticFieldTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lambda/ActionListenerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lambda/BaseTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lambda/ForEachTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lambda/Java8Tester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lambda/RunnableTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lambda/StringSorting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/multithread/DaemonThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/multithread/DoSomething.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/multithread/MethodSynchronization.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/multithread/ThreadSleep.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/reentrantlock/FairLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/reentrantlock/FairLock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/reentrantlock/ReentrantLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/reentrantlock/ReentrantLock2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sqlparser/SQLParserTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/stringtable/StringNewTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/stringtable/StringNewTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/stringtable/StringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/stringtable/StringTest1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/test/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/Student.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -189,32 +217,59 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="124094230">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="8" />
+          <entry key="java" value="11042" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="11042" />
+          <entry key="PLAIN_TEXT" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="ClassLoader" value="2" />
+          <entry key="IOException" value="1" />
+          <entry key="Object" value="3" />
+          <entry key="URLClassLoader" value="1" />
+          <entry key="class" value="8" />
+          <entry key="java" value="182" />
+          <entry key="xml" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="8" />
+          <entry key="JAVA" value="182" />
+          <entry key="UML" value="7" />
+          <entry key="XML" value="4" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/jvm/JvmTestOne.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/test/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/stringtable/StringTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+            <state relative-caret-position="322">
+              <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -242,14 +297,29 @@
       <find>equals</find>
       <find>containsKey</find>
       <find>containsValue</find>
-      <find>values</find>
       <find>values()</find>
       <find>toString()</find>
-      <find>valueOf</find>
       <find>IntegerCache</find>
+      <find>c</find>
+      <find>run</find>
+      <find>run()</find>
+      <find>URLClassLoader</find>
+      <find>classload</find>
+      <find>defineClass</find>
+      <find>yield</find>
+      <find>classLoader</find>
+      <find>ClassLoader</find>
+      <find>loadClass</find>
+      <find>findClass</find>
+      <find>take</find>
+      <find>studentStream</find>
+      <find>compareTo</find>
+      <find>values</find>
+      <find>valueOf</find>
     </findStrings>
     <replaceStrings>
       <replace />
+      <replace>list.stream()</replace>
     </replaceStrings>
     <dirStrings>
       <dir>E:\Code\Test</dir>
@@ -261,43 +331,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/hashmaptest/Test.java" />
-        <option value="$PROJECT_DIR$/src/runningorder/Father.java" />
-        <option value="$PROJECT_DIR$/src/runningorder/Son.java" />
-        <option value="$PROJECT_DIR$/src/runningorder/Test.java" />
-        <option value="$PROJECT_DIR$/src/reentrantlock/ReentrantLockTest.java" />
-        <option value="$PROJECT_DIR$/src/reentrantlock/InterruptLock.java" />
-        <option value="$PROJECT_DIR$/src/reentrantlock/TryLock.java" />
-        <option value="$PROJECT_DIR$/src/reentrantlock/FairLock.java" />
-        <option value="$PROJECT_DIR$/src/reentrantlock/ConditionTest.java" />
-        <option value="$PROJECT_DIR$/src/reentrantlock/BlockQueueImpl.java" />
-        <option value="$PROJECT_DIR$/src/reentrantlock/ReadTask.java" />
-        <option value="$PROJECT_DIR$/src/reentrantlock/ReentrantLock.java" />
-        <option value="$PROJECT_DIR$/src/test/Main.java" />
-        <option value="$PROJECT_DIR$/src/hashmap/Test.java" />
-        <option value="$PROJECT_DIR$/src/hashmap/TraverseTest.java" />
-        <option value="$PROJECT_DIR$/src/hashmaptest/TraverseTest.java" />
-        <option value="$PROJECT_DIR$/src/synchronizedtest/SynchronizedTest.java" />
-        <option value="$PROJECT_DIR$/src/synchronizedtest/SynchronizedTestThree.java" />
-        <option value="$PROJECT_DIR$/src/synchronizedtest/SynchronizedTestFour.java" />
-        <option value="$PROJECT_DIR$/src/synchronizedtest/SynchronizedTestTwo.java" />
-        <option value="$PROJECT_DIR$/src/synchronizedtest/SynchronizedTestFive.java" />
-        <option value="$PROJECT_DIR$/src/synchronizedtest/SynchronizedTestOne.java" />
-        <option value="$PROJECT_DIR$/src/reflect/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lombok/Person.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lombok/PersonWithoutLombok.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lombok/PersonWithLombok.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lombok/LombokTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/flatmap/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/optional/User.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/optional/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/jvm/JvmTestTwo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/jvm/JvmStackTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/jvm/StaticFieldTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/jvm/SimpleTest.java" />
-        <option value="$PROJECT_DIR$/target/classes/jvm/JvmStackTest.txt" />
-        <option value="$PROJECT_DIR$/src/main/java/jvm/String.java" />
         <option value="$PROJECT_DIR$/src/main/java/jvm/HeapInstanceTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/jvm/HeapTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/test/Student.java" />
@@ -305,13 +338,50 @@
         <option value="$PROJECT_DIR$/src/main/java/jvm/StringTest2.java" />
         <option value="$PROJECT_DIR$/src/main/java/iooperation/TestOne.java" />
         <option value="$PROJECT_DIR$/src/main/java/iooperation/FileOperationTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/stringtable/StringNewTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/gctest/FinalizeTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/gctest/GCRootTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/synchronizedtest/SimpleTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/jvm/JvmTestOne.java" />
-        <option value="$PROJECT_DIR$/src/main/java/test/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/stringtable/StringNewTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/enumtest/Color.java" />
+        <option value="$PROJECT_DIR$/src/main/java/test/SomeThing.java" />
+        <option value="$PROJECT_DIR$/src/main/java/multithread/ThreadTest1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/multithread/ThreadTest2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/multithread/TreadTest3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/multithread/ThreadTest3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/multithread/ThreadTest4.java" />
+        <option value="$PROJECT_DIR$/src/main/java/multithread/ThreadTest5.java" />
+        <option value="$PROJECT_DIR$/src/main/java/reentrantlock/ReentrantLock.java" />
+        <option value="$PROJECT_DIR$/src/main/java/reentrantlock/ReentrantLock2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/multithread/ThreadTest7.java" />
+        <option value="$PROJECT_DIR$/src/main/java/multithread/ThreadTest9.java" />
+        <option value="$PROJECT_DIR$/src/main/java/multithread/ThreadTest6.java" />
+        <option value="$PROJECT_DIR$/src/main/java/multithread/ThreadTest8.java" />
+        <option value="$PROJECT_DIR$/src/main/java/multithread/ThreadTest10.java" />
+        <option value="$PROJECT_DIR$/src/main/java/multithread/ThreadTest11.java" />
+        <option value="$PROJECT_DIR$/src/main/java/multithread/ThreadTest12.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lambda/StringSorting.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lambda/ForEachTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lambda/LambdaTest1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/multithread/ThreadTest13.java" />
         <option value="$PROJECT_DIR$/src/main/java/stringtable/StringTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/stringtable/StringTest1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lambda/LambdaTest2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/iooperation/PrintTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/interview/CodeAnalysis.java" />
+        <option value="$PROJECT_DIR$/src/main/java/interview/StringRelatedTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/interview/CodeAnalysis1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/arrayadress/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/compare/CompareTest1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/generic/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/enumtest/EnumTest3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/enumtest/EnumTest1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/enumtest/EnumTest2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/reentrantlock/FairLock.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jvm/JvmTest3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jvm/SimpleTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jvm/JvmTest1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/test/Main.java" />
       </list>
     </option>
   </component>
@@ -335,9 +405,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="180" />
-    <option name="y" value="315" />
-    <option name="width" value="1940" />
+    <option name="x" value="951" />
+    <option name="y" value="-10" />
+    <option name="width" value="978" />
     <option name="height" value="1060" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -381,7 +451,7 @@
         </expanded-state>
         <selected-state>
           <State>
-            <id>AlibabaAvoidCommentBehindStatement</id>
+            <id>AlibabaAvoidManuallyCreateThread</id>
           </State>
         </selected-state>
       </profile-state>
@@ -395,7 +465,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -427,20 +496,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="stringtable" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo4java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo4java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -448,16 +510,17 @@
     <property name="Downloaded.Files.Path.Enabled" value="true" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SearchEverywhereHistoryKey" value="Obje&#9;PSI&#9;JAVA://java.lang.Object&#10;Lock&#9;PSI&#9;JAVA://multithread.Windows3#lock&#10;ReentrantLock&#9;FILE&#9;file://D:/Codes/Learning/demo4java/src/main/java/reentrantlock/ReentrantLock.java&#10;AppClassLoader&#9;PSI&#9;JAVA://sun.misc.Launcher.AppClassLoader&#10;URL&#9;FILE&#9;jar://D:/Software/jdk1.8.0_161/src.zip!/java/net/URLClassLoader.java&#10;Launcher&#9;PSI&#9;JAVA://sun.misc.Launcher&#10;AppClassL&#9;PSI&#9;JAVA://sun.misc.Launcher.AppClassLoader&#10;Launche&#9;PSI&#9;JAVA://sun.misc.Launcher&#10;URLClassLoader&#9;PSI&#9;JAVA://java.net.URLClassLoader&#10;ApplicationClas&#9;FILE&#9;jar://D:/Software/jdk1.8.0_161/jre/lib/ext/jfxrt.jar!/com/sun/glass/ui/Application.class&#10;URLClassL&#9;FILE&#9;jar://D:/Software/jdk1.8.0_161/src.zip!/java/net/URLClassLoader.java&#10;URLClass&#9;PSI&#9;JAVA://java.net.URLClassLoader" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1632556577858" />
-    <property name="last_opened_file_path" value="C:/Program Files/jprofiler11/bin/jprofiler.exe" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1635083259451" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../MIBC/wsms" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -480,13 +543,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.StringTest.testTwo">
-    <configuration name="GCRootTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gctest.GCRootTest" />
+  <component name="RunManager">
+    <configuration name="EnumTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="enumtest.EnumTest1" />
       <module name="demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="gctest.*" />
+          <option name="PATTERN" value="enumtest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -494,41 +557,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JvmTestOne" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jvm.JvmTestOne" />
+    <configuration name="EnumTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="enumtest.EnumTest2" />
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="enumtest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EnumTest3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="enumtest.EnumTest3" />
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="enumtest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JvmTest1" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jvm.JvmTest1" />
       <module name="demo" />
       <option name="VM_PARAMETERS" value=" -XX:+PrintCommandLineFlags" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="stringtable.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="generic.Main" />
-      <module name="demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="generic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="test.Main" />
-      <module name="demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -577,6 +638,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="JvmTest3.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jvm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="jvm" />
+      <option name="MAIN_CLASS_NAME" value="jvm.JvmTest3" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.Main" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="String" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
       <module name="demo" />
       <extension name="coverage">
@@ -591,72 +684,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringTest2.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="stringtable.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="stringtable" />
-      <option name="MAIN_CLASS_NAME" value="stringtable.StringTest2" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringTest.testOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="stringtable.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="stringtable" />
-      <option name="MAIN_CLASS_NAME" value="stringtable.StringTest" />
-      <option name="METHOD_NAME" value="testOne" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringTest.testTwo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="stringtable.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="stringtable" />
-      <option name="MAIN_CLASS_NAME" value="stringtable.StringTest" />
-      <option name="METHOD_NAME" value="testTwo" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.StringTest" />
-      <item itemvalue="Application.JvmTestOne" />
+      <item itemvalue="Application.JvmTest1" />
       <item itemvalue="Application.SimpleTest" />
       <item itemvalue="JUnit.String" />
-      <item itemvalue="Application.GCRootTest" />
-      <item itemvalue="Application.Main" />
-      <item itemvalue="JUnit.StringTest2.test1" />
-      <item itemvalue="JUnit.StringTest.testOne" />
-      <item itemvalue="JUnit.StringTest.testTwo" />
+      <item itemvalue="Application.EnumTest1" />
+      <item itemvalue="Application.EnumTest2" />
+      <item itemvalue="Application.EnumTest3" />
+      <item itemvalue="JUnit.Main.test2" />
+      <item itemvalue="JUnit.JvmTest3.test2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.StringTest.testTwo" />
-        <item itemvalue="JUnit.StringTest.testOne" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.GCRootTest" />
+        <item itemvalue="JUnit.JvmTest3.test2" />
+        <item itemvalue="JUnit.Main.test2" />
+        <item itemvalue="Application.EnumTest3" />
+        <item itemvalue="Application.EnumTest2" />
+        <item itemvalue="Application.EnumTest1" />
       </list>
     </recent_temporary>
   </component>
@@ -756,43 +801,49 @@
       <workItem from="1632057666089" duration="3106000" />
       <workItem from="1632297024271" duration="1450000" />
       <workItem from="1632452384211" duration="6233000" />
+      <workItem from="1632559539522" duration="3169000" />
+      <workItem from="1633577435006" duration="12851000" />
+      <workItem from="1633913124587" duration="2319000" />
+      <workItem from="1634022402817" duration="9744000" />
+      <workItem from="1634279605925" duration="46753000" />
+      <workItem from="1634954122803" duration="17544000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="StringNewTest_testFive - 2021.09.18 at 17h 27m 37s.xml">
-      <configuration name="StringNewTest.testFive" configurationId="JUnit" />
+    <history-entry file="Main_test2 - 2021.10.23 at 15h 44m 59s.xml">
+      <configuration name="Main.test2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StringNewTest_testFive - 2021.09.18 at 17h 28m 04s.xml">
-      <configuration name="StringNewTest.testFive" configurationId="JUnit" />
+    <history-entry file="Main_test2 - 2021.10.23 at 15h 45m 13s.xml">
+      <configuration name="Main.test2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StringNewTest_testFive - 2021.09.18 at 17h 28m 18s.xml">
-      <configuration name="StringNewTest.testFive" configurationId="JUnit" />
+    <history-entry file="Main_test2 - 2021.10.23 at 15h 45m 33s.xml">
+      <configuration name="Main.test2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StringNewTest_testFive - 2021.09.18 at 17h 29m 04s.xml">
-      <configuration name="StringNewTest.testFive" configurationId="JUnit" />
+    <history-entry file="Main_test2 - 2021.10.23 at 15h 46m 22s.xml">
+      <configuration name="Main.test2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StringNewTest_testFive - 2021.09.18 at 17h 29m 50s.xml">
-      <configuration name="StringNewTest.testFive" configurationId="JUnit" />
+    <history-entry file="Main_test1 - 2021.10.23 at 16h 16m 01s.xml">
+      <configuration name="Main.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StringNewTest_testFive - 2021.09.18 at 17h 30m 59s.xml">
-      <configuration name="StringNewTest.testFive" configurationId="JUnit" />
+    <history-entry file="StringRelatedTest_test1 - 2021.10.23 at 16h 35m 36s.xml">
+      <configuration name="StringRelatedTest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StringNewTest_testFive - 2021.09.18 at 17h 31m 49s.xml">
-      <configuration name="StringNewTest.testFive" configurationId="JUnit" />
+    <history-entry file="StringRelatedTest_test1 - 2021.10.23 at 16h 41m 03s.xml">
+      <configuration name="StringRelatedTest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StringTest2_test1 - 2021.09.18 at 19h 24m 05s.xml">
-      <configuration name="StringTest2.test1" configurationId="JUnit" />
+    <history-entry file="StringRelatedTest_test2 - 2021.10.23 at 17h 21m 28s.xml">
+      <configuration name="StringRelatedTest.test2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StringTest_testOne - 2021.09.25 at 10h 21m 18s.xml">
-      <configuration name="StringTest.testOne" configurationId="JUnit" />
+    <history-entry file="Main_test2 - 2021.10.24 at 19h 59m 37s.xml">
+      <configuration name="Main.test2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StringTest_testTwo - 2021.09.25 at 10h 21m 23s.xml">
-      <configuration name="StringTest.testTwo" configurationId="JUnit" />
+    <history-entry file="JvmTest3_test2 - 2021.10.24 at 21h 39m 27s.xml">
+      <configuration name="JvmTest3.test2" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="418750000" />
+    <option name="totallyTimeSpent" value="511130000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -807,7 +858,7 @@
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2580429" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20978552" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -816,7 +867,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="0" sideWeight="0.49932975" weight="0.32867134" />
       <window_info anchor="bottom" id="Message" order="1" />
-      <window_info anchor="bottom" id="Find" order="2" weight="0.32821497" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32587412" />
       <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49798927" weight="0.33566433" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.3846154" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
@@ -839,8 +890,8 @@
       <window_info anchor="right" id="Database" order="6" weight="0.32908848" />
       <window_info anchor="right" id="Theme Preview" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
-      <window_info anchor="right" id="Maven Projects" order="9" weight="0.23190348" />
-      <window_info anchor="right" id="jclasslib" order="10" weight="0.46045578" />
+      <window_info anchor="right" id="Maven Projects" order="9" weight="0.17292225" />
+      <window_info anchor="right" id="jclasslib" order="10" weight="0.39008042" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -860,71 +911,121 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/target/classes/jvm/JvmStackTest.txt">
+    <entry file="file://$PROJECT_DIR$/src/main/java/multithread/ThreadTest5.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="689">
-          <caret line="72" column="20" lean-forward="true" selection-start-line="72" selection-start-column="20" selection-end-line="72" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jvm/JvmStackTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/lang/System.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/test/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="482">
-          <caret line="52" selection-start-line="52" selection-end-line="54" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jvm/SimpleTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
+        <state relative-caret-position="-207">
           <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jvm/HeapTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/multithread/ThreadTest9.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        <state relative-caret-position="366">
+          <caret line="24" column="40" lean-forward="true" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jvm/HeapInstanceTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/test/SomeThing.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
+        <state relative-caret-position="-25">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/multithread/ThreadTest13.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="29" column="21" lean-forward="true" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#200#224#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/multithread/ThreadTest11.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-46">
+          <caret line="56" column="26" lean-forward="true" selection-start-line="56" selection-start-column="26" selection-end-line="56" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/multithread/ThreadTest10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Software/jdk1.8.0_161/src.zip!/java/lang/AbstractStringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="445" column="29" selection-start-line="445" selection-start-column="19" selection-end-line="445" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Software/jdk1.8.0_161/src.zip!/java/lang/StringBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="138" column="21" selection-start-line="138" selection-start-column="21" selection-end-line="138" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/iooperation/PrintTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
           <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jvm.JvmTestOne.class" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/arrayadress/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="458">
-          <caret line="22" column="21" lean-forward="true" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+        <state relative-caret-position="230">
+          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/src/main/java/arrayadress/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="343">
+          <caret line="16" column="57" lean-forward="true" selection-start-line="16" selection-start-column="57" selection-end-line="16" selection-end-column="57" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/target/classes/stringtable/StringTest2.class">
+    <entry file="file://$PROJECT_DIR$/src/main/java/innerclass/Circle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="36" column="25" lean-forward="true" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="25" />
+        <state relative-caret-position="780">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/defualtmethod/OneInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/defualtmethod/DefaultMethodTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="19" column="36" lean-forward="true" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/test/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -938,75 +1039,162 @@
           </nodes>
           <notes />
           <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="44.0" y="15.0" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="43.5" y="15.0" />
           <SelectedNodes />
-          <Categories />
+          <Categories>
+            <Category>Methods</Category>
+          </Categories>
           <SCOPE>All</SCOPE>
           <VISIBILITY>private</VISIBILITY>
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/Map.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/io/FileInputStream.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/io/Reader.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/io/InputStreamReader.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/io/Writer.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/lang/Thread.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/jvm/JvmTestTwo.java">
+    <entry file="jar://D:/Software/jdk1.8.0_161/src.zip!/java/lang/Object.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="433">
-          <caret line="19" column="39" lean-forward="true" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+        <state relative-caret-position="160">
+          <caret line="30" column="57" lean-forward="true" selection-start-line="30" selection-start-column="57" selection-end-line="30" selection-end-column="57" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/iooperation/TestOne.java">
+    <entry file="jar://D:/Software/jdk1.8.0_161/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
-          <caret line="24" column="27" lean-forward="true" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+        <state relative-caret-position="119">
+          <caret line="1154" column="46" lean-forward="true" selection-start-line="1154" selection-start-column="46" selection-end-line="1154" selection-end-column="46" />
+          <folding>
+            <element signature="e#22786#22787#0" expanded="true" />
+            <element signature="e#22821#22822#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/lang/String.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/lang/StringBuilder.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/iooperation/FileOperationTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/interview/CodeAnalysis1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="27" column="9" lean-forward="true" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+        <state>
+          <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/target/classes/stringtable/StringNewTest.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="103">
-          <caret line="16" column="33" lean-forward="true" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/classes/stringtable/StringTest.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="14" column="44" lean-forward="true" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lambda/StringSorting.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/interview/StringRelatedTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
-          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+          <caret line="18" column="35" lean-forward="true" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lambda/RunnableTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/gctest/GCRootTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="435">
+          <caret line="31" column="46" lean-forward="true" selection-start-line="31" selection-start-column="46" selection-end-line="31" selection-end-column="46" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/enumtest/Color.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/gctest/FinalizeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="642">
+          <caret line="41" column="9" lean-forward="true" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Software/jdk1.8.0_161/src.zip!/java/util/Collections.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="229">
-          <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+          <caret line="139" column="57" selection-start-line="139" selection-start-column="57" selection-end-line="139" selection-end-column="57" />
+          <folding>
+            <element signature="e#5644#5645#0" expanded="true" />
+            <element signature="e#5675#5676#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/compare/CompareTest1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="41" column="13" lean-forward="true" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#439#440#0" expanded="true" />
+            <element signature="e#465#466#0" expanded="true" />
+            <element signature="e#500#501#0" expanded="true" />
+            <element signature="e#530#531#0" expanded="true" />
+            <element signature="e#679#680#0" expanded="true" />
+            <element signature="e#706#707#0" expanded="true" />
+            <element signature="e#746#747#0" expanded="true" />
+            <element signature="e#778#779#0" expanded="true" />
+            <element signature="e#810#811#0" expanded="true" />
+            <element signature="e#839#840#0" expanded="true" />
+            <element signature="e#882#883#0" expanded="true" />
+            <element signature="e#918#919#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/generic/Pair.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/generic/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+          <folding>
+            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#216#217#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/genericsuperandextends/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1175">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/genericsuperandextends/RedApple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="52" lean-forward="true" selection-start-line="5" selection-start-column="52" selection-end-line="5" selection-end-column="52" />
+          <folding>
+            <element signature="e#109#110#0" expanded="true" />
+            <element signature="e#168#169#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/genericsuperandextends/Pear.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/genericsuperandextends/Fruit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/genericsuperandextends/Apple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/enumtest/EnumTest3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="48" lean-forward="true" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
+          <folding>
+            <element signature="e#443#444#0" expanded="true" />
+            <element signature="e#491#492#0" expanded="true" />
+            <element signature="e#745#746#0" expanded="true" />
+            <element signature="e#781#782#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1017,128 +1205,151 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/transienttest/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/enumtest/Color.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="229">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="46">
-            <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/src/main/java/enumtest/ColorEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="24" column="45" selection-start-line="24" selection-start-column="45" selection-end-line="24" selection-end-column="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/annotationunderstand/AnnotationTest.java">
+    <entry file="jar://D:/Software/jdk1.8.0_161/src.zip!/java/lang/Enum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="322">
+          <caret line="41" column="68" lean-forward="true" selection-start-line="41" selection-start-column="68" selection-end-line="41" selection-end-column="68" />
+          <folding>
+            <element signature="e#2979#2980#0" expanded="true" />
+            <element signature="e#3009#3010#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/stringtable/StringNewTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/flatmap/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        <state relative-caret-position="-301">
+          <caret line="21" column="60" selection-start-line="21" selection-start-column="60" selection-end-line="21" selection-end-column="60" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/stacktrace/StackTraceTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/enumtest/EnumTest2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        <state relative-caret-position="711">
+          <caret line="46" column="5" lean-forward="true" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/stringtable/StringTest2.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/enumtest/EnumTest1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="322">
+          <caret line="17" column="3" lean-forward="true" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+          <folding>
+            <element signature="e#1156#1157#0" expanded="true" />
+            <element signature="e#1182#1183#0" expanded="true" />
+            <element signature="e#1216#1217#0" expanded="true" />
+            <element signature="e#1246#1247#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/HashSet.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/LinkedHashSet.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/LinkedHashMap.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/HashMap.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/lang/Object.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/synchronizedtest/SimpleTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/gctest/FinalizeTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/lambda/LambdaTest1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="805">
-          <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+        <state relative-caret-position="504">
+          <caret line="25" column="41" lean-forward="true" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/gctest/GCRootTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/lambda/LambdaTest2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+        <state relative-caret-position="2645">
+          <caret line="137" column="24" lean-forward="true" selection-start-line="137" selection-start-column="24" selection-end-line="137" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/synchronizedtest/SynchronizedTestOne.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/reentrantlock/FairLock.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state relative-caret-position="229">
+          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/generic/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/jvm/StaticFieldTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        <state relative-caret-position="414">
+          <caret line="18" column="32" lean-forward="true" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+          <folding>
+            <element signature="e#428#429#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jvm/HeapInstanceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="13" column="4" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jvm/HeapTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jvm/SimpleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jvm/JvmTest2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jvm/JvmStackTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jvm/JvmTest1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="964">
+          <caret line="49" column="20" lean-forward="true" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jvm/JvmTest3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="481">
+          <caret line="36" column="5" lean-forward="true" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/test/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Software/jdk1.8.0_161/src.zip!/java/lang/System.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="992" column="34" lean-forward="true" selection-start-line="992" selection-start-column="34" selection-end-line="992" selection-end-column="34" />
-          <folding>
-            <element signature="e#40917#40918#0" expanded="true" />
-            <element signature="e#40958#40959#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/stringtable/StringTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Software/jdk1.8.0_161/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="826" column="18" lean-forward="true" selection-start-line="826" selection-start-column="18" selection-end-line="826" selection-end-column="18" />
-          <folding>
-            <element signature="e#32532#32533#0" expanded="true" />
-            <element signature="e#32566#32567#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jvm/JvmTestOne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+        <state relative-caret-position="322">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
         </state>
       </provider>
     </entry>
